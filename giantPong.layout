@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="../../../addons/MSATimer/src/MSATimer.h" open="0" top="0" tabpos="0">
+		<Cursor position="1805" topLine="32" />
+	</File>
+	<File name="../../../addons/ofxBox2d/src/lib/Box2D/Source/Collision/b2Collision.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../../../addons/ofxBox2d/src/ofxBox2dBaseShape.h" open="0" top="0" tabpos="4">
+		<Cursor position="860" topLine="33" />
+	</File>
+	<File name="../../../addons/ofxBox2d/src/ofxBox2dCircle.h" open="0" top="0" tabpos="0">
+		<Cursor position="466" topLine="0" />
+	</File>
+	<File name="src/AttackMode.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="831" topLine="132" />
+	</File>
+	<File name="src/AttackMode.h" open="0" top="0" tabpos="2">
+		<Cursor position="1367" topLine="0" />
+	</File>
+	<File name="src/Ball.h" open="0" top="0" tabpos="0">
+		<Cursor position="350" topLine="0" />
+	</File>
+	<File name="src/Brick.h" open="0" top="0" tabpos="0">
+		<Cursor position="598" topLine="0" />
+	</File>
+	<File name="src/HomeScreen.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="3889" topLine="85" />
+	</File>
+	<File name="src/HomeScreen.h" open="0" top="0" tabpos="1">
+		<Cursor position="499" topLine="19" />
+	</File>
+	<File name="src/NormalMode.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="12015" topLine="357" />
+	</File>
+	<File name="src/NormalMode.h" open="0" top="0" tabpos="5">
+		<Cursor position="2506" topLine="79" />
+	</File>
+	<File name="src/Paddle.h" open="0" top="0" tabpos="0">
+		<Cursor position="891" topLine="0" />
+	</File>
+	<File name="src/RetroMode.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="836" topLine="14" />
+	</File>
+	<File name="src/RetroMode.h" open="0" top="0" tabpos="1">
+		<Cursor position="1405" topLine="3" />
+	</File>
+	<File name="src/Wall.h" open="0" top="0" tabpos="3">
+		<Cursor position="1003" topLine="0" />
+	</File>
+	<File name="src/main.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="245" topLine="0" />
+	</File>
+	<File name="src/testApp.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="7482" topLine="227" />
+	</File>
+	<File name="src/testApp.h" open="0" top="0" tabpos="2">
+		<Cursor position="1541" topLine="14" />
+	</File>
+</CodeBlocks_layout_file>
