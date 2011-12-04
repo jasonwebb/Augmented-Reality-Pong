@@ -3,12 +3,18 @@ Augmented Reality Pong (sometimes called "Giant Pong") is an openFrameworks impl
 INTRODUCTION:
 Originally, the idea behind this project was to create a system that can allow abitrary input from webcams (infrared blobs) to control the game. It was first debutted in Spring 2011 as an interactive table-top, using a projector and a PS3Eye webcam, modified for IR sensitivity, installed directly above a large table, which used the positions of users' hands acting as the input for the webcam (infrared LEDs and batteries were sewn onto wristbands and worn by the users). Eventually, we'd like to scale this system up to allow multiple users to play a game of pong on a very large arena like a basketball court.
 
+More information abuot the table-top debut of this project at: http://cs.unk.edu/~webb/2011/07/tabletop-augmented-reality-pong-game/
+
 REQUIREMENTS
-- openFrameworks (this was developed using 0062, haven't test 007+ yet)
+-------------
+- openFrameworks 0062+ (not tested with 007)
+  + ofxOpenCV addon
+  + ofxBox2d addon
+  + MSAlibs
 - webcam (PS3Eyes are great, especially when modified for IR)
 
 USAGE:
-First, install this project in your OF apps folder (see the INSTALL doc for specific installation instructions). Don't forget to install the necessary addons!
+First, install this project in your OF apps folder. Don't forget to install the necessary addons!
 
 Once you compile and run the program, you will see a blank stage the size of your screen. Two blobs have to be detected in the webcam for a game to take place and paddles to be visible. Use the keyboard controls outlined below to calibrate your webcam until you can obtain reliable blobs corresponding to the feature you want to track. 
 
