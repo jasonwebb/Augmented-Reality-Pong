@@ -25,13 +25,13 @@
 	<File name="src/Brick.h" open="0" top="0" tabpos="0">
 		<Cursor position="598" topLine="0" />
 	</File>
-	<File name="src/HomeScreen.cpp" open="0" top="0" tabpos="2">
-		<Cursor position="3889" topLine="85" />
+	<File name="src/HomeScreen.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3889" topLine="67" />
 	</File>
-	<File name="src/HomeScreen.h" open="0" top="0" tabpos="1">
+	<File name="src/HomeScreen.h" open="1" top="0" tabpos="3">
 		<Cursor position="499" topLine="19" />
 	</File>
-	<File name="src/NormalMode.cpp" open="0" top="0" tabpos="3">
+	<File name="src/NormalMode.cpp" open="1" top="0" tabpos="1">
 		<Cursor position="12015" topLine="357" />
 	</File>
 	<File name="src/NormalMode.h" open="0" top="0" tabpos="5">
@@ -52,8 +52,8 @@
 	<File name="src/main.cpp" open="0" top="0" tabpos="4">
 		<Cursor position="245" topLine="0" />
 	</File>
-	<File name="src/testApp.cpp" open="0" top="0" tabpos="1">
-		<Cursor position="7482" topLine="227" />
+	<File name="src/testApp.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="7482" topLine="209" />
 	</File>
 	<File name="src/testApp.h" open="0" top="0" tabpos="2">
 		<Cursor position="1541" topLine="14" />

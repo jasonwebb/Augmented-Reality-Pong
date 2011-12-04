@@ -1,9 +1,0 @@
-[space] = background subtract
-+ = increase threshold
-- = decrease threshold
-i = increase min blob size
-u = decrease min blob size
-k = increase max blob size
-j = decrease max blob size
-v = verbose mode
-r = start a new match
